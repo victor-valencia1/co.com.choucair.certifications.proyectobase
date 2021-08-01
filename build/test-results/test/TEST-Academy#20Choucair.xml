@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Academy Choucair" tests="1" skipped="1" failures="0" errors="0" timestamp="2021-08-01T21:03:53" hostname="DESKTOP-BOGHVCS" time="0.046">
+  <properties/>
+  <testcase name="Search for automation course" classname="Academy Choucair" time="0.046">
+    <skipped/>
+  </testcase>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@3b484a08
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - TEST PENDING
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@1109c892
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - stepStarted: net.thucydides.core.steps.ExecutedStepDescription@7a07f372
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - testFinished: Search for automation course:Given than Rose want to learn automation at the Academy choucair
+| strUser | strPassword |
+| TuUsuario | TuClave |, When she search for the course on the choucair Academy platfrom
+| strCourse |
+| Metodologia Bancolombia |, Then she find the course called
+| strCourse |
+| Metodologia Bancolombia |
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - TestOutcomes: [Search for automation course:Given than Rose want to learn automation at the Academy choucair
+| strUser | strPassword |
+| TuUsuario | TuClave |, When she search for the course on the choucair Academy platfrom
+| strCourse |
+| Metodologia Bancolombia |, Then she find the course called
+| strCourse |
+| Metodologia Bancolombia |]
+[Test worker] WARN net.thucydides.core.steps.BaseStepListener - Final testOutcomes: [Search for automation course:Given than Rose want to learn automation at the Academy choucair
+| strUser | strPassword |
+| TuUsuario | TuClave |, When she search for the course on the choucair Academy platfrom
+| strCourse |
+| Metodologia Bancolombia |, Then she find the course called
+| strCourse |
+| Metodologia Bancolombia |]
+[Test worker] INFO net.thucydides.core.steps.ConsoleLoggingListener - 
+          __  _____ _____ ____ _____   ____  _____ _   _ ____ ___ _   _  ____ 
+ _       / / |_   _| ____/ ___|_   _| |  _ \| ____| \ | |  _ \_ _| \ | |/ ___|
+(_)____ / /    | | |  _| \___ \ | |   | |_) |  _| |  \| | | | | ||  \| | |  _ 
+ |_____/ /     | | | |___ ___) || |   |  __/| |___| |\  | |_| | || |\  | |_| |
+(_)   /_/      |_| |_____|____/ |_|   |_|   |_____|_| \_|____/___|_| \_|\____|
+                                                                                
+
+TEST PENDING: Search for automation course
+---------------------------------------------------------------------------------
+]]></system-err>
+</testsuite>
